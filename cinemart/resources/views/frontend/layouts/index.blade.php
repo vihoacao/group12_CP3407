@@ -13,7 +13,7 @@
         <div class="carousel-inner" role="listbox">
                 @foreach($banners as $key=>$banner)
                 <div class="carousel-item {{(($key==0)? 'active' : '')}}">
-                    <img height="1000px" class="first-slide" src="{{$banner->photo}}" alt="First slide">
+                    <img class="first-slide" src="{{$banner->photo}}" alt="First slide">
                     <div class="carousel-caption d-none d-md-block text-left">
                         <h1 class="wow fadeInDown">{{$banner->title}}</h1>
                         <p>{!! html_entity_decode($banner->description) !!}</p>
@@ -65,7 +65,7 @@
             @endif
         </div>
     </div> --}}
-{{-- </section> --}}
+</section>
 <!-- End Small Banner -->
 
 <!-- Start Product Area -->
@@ -309,7 +309,7 @@
         <div class="row">
             <div class="col-12">
                 <div class="section-title">
-                    <h2>From Our Blog</h2>
+                    <h2>52616B</h2>
                 </div>
             </div>
         </div>
