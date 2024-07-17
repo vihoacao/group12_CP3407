@@ -25,12 +25,9 @@ Develop the frontend user interface for the signup form, including fields for us
 - Estimation 1 days
 
 # UI Design:
-* (New, not in the textbook) 
-* Many user stories are connected to a User interface.
-* Insert a mockup design screenshot using any prototyping tools, e.g. [https://ninjamock.com/](https://ninjamock.com/)
+
+![alt text](image-1.png)
 
 # Completed:
-* (New, not in the textbook) 
-* Insert screenshots of completed. 
-* If you have multiple versions (changes between iteractions), show them all.
 
+![alt text](image-3.png)
