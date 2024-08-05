@@ -1,9 +1,5 @@
 # Actual iteration-1 board, 
 
-Checklist: 
-1. github entry timestamps
-2. User stories are correct: see p39
-
 * Assumed Velocity: 0.7 
 * Number of developers: 2
 * Total estimated amount of work: 20 days, devided buy 2 developers: 10 days
