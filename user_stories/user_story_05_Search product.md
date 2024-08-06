@@ -2,7 +2,7 @@
 Implement Search for Products Functionality
 
 
-## Priority: 20 (latest for iteration-1)
+## Priority: 20 (Iteration 2)
 Priority: High
 
 ## Estimation: 5 days
@@ -21,15 +21,15 @@ Allow users to search for products on the website so that they can quickly find 
 2. Task 2: Create the backend API to handle search queries, process them, and return relevant product data from the database.
 - Estimation 2 days
 
-4. Task 3: Develop the frontend to display the list of products that match the search query, including product images, names, prices,
+3. Task 3: Develop the frontend to display the list of products that match the search query, including product images, names, prices,
 - Estimation: 1 days
 
-5. Task 4: Provide user feedback and handle cases where no products match the search query, including displaying suggestions for alternative searches.
+4. Task 4: Provide user feedback and handle cases where no products match the search query, including displaying suggestions for alternative searches.
 - Estimation: 1 days
 
 # UI Design:
 
-![alt text](image-6.png)
+![alt text](image-16.png)
 
 # Completed:
 

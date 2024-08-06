@@ -2,7 +2,7 @@
 Implement Login Functionality
 
 
-## Priority: 10 (e.g. latest for iteration-1)
+## Priority: 10 (latest for iteration-1)
 Priority: High
 
 ## Estimation: 4 days

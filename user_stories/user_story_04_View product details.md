@@ -22,7 +22,7 @@ Develop the frontend user interface for the product details page, including sect
 - Estimation 2 days
 
 3. Task 3: Develop the section to display customer reviews and ratings, including fetching reviews from the database and showing them on the product details page.
-- Estimation 2 days
+- Estimation 1 days
 
 4. Task4: Ensure the product's price and availability are prominently displayed and update dynamically if the data changes.
 - Estimation:1 days
@@ -33,4 +33,4 @@ Develop the frontend user interface for the product details page, including sect
 
 # Completed:
 
-
+![alt text](image-10.png)
