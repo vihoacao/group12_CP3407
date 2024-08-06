@@ -1,29 +1,61 @@
-# Actual iteration-2 board, (see chapters 3 and 4), add your start and end dates 
+# Actual iteration-2 board,
 
-Checklist: 
-1. github entry timestamps
-2. User stories are correct: see p39
+* Assumed Velocity FROM iteration-1: 0,7
+* Total estimated amount of work: 22 days, devided buy 2 developers: 11 days
 
-* Assumed Velocity FROM iteration-1: ?? 
-* Number of developers: ??
-* Total estimated amount of work: YY days
+User stories:
+5. Search product (./user_stories/user_story_05_Search product.md), 
+- priority 20 (High)
+- 5 days
 
-User stories or tasks (see chapter 4):
-1. [user story or task title](./user_stories/user_story_01_title.md), priority XX, YY days 
-2. ...
+6. Edit user profile (./user_stories/user_story_06_Edit user profile.md)
+- priority 20 (High)
+- 5 days
 
-In progress:
-* Task-2 (developer name or initials), date started
-* ...
+7. Add to cart (./user_stories/user_story_07_Add to cart.md)
+- priority 30 (Normal)
+- 7 days
 
-Completed:
-* Task-3 (developer name or initials), date completed
-* ...
+8. Filtering product (./user_stories/user_story_08_Filtering product.md)
+- priority 30 (Normal)
+- 5 days
 
-### Burn Down for iteration-2 (see chapter 4):
-Update this at least once per week
-* 4 weeks left, xx days of estimated amount of work 
-* 2 weeks left, xx days
-* 1 weeks left, xx days
-* 0 weeks left, xx days
-* Actual Velocity: ?? 
+Progress:
+* Userstory 5: 
+Developer name: - Task 1: Linh Hoa
+                - Task 2: Linh Hoa  
+                - Task 3: Vi Hoa
+                - Task 4: Vi Hoa
+            
+Date started : 01/07/2024
+Date completed: 04/07/2024
+
+* Userstory 6: 
+Developer name: - Task 1: Linh Hoa 
+                - Task 2: Vi Hoa  
+                - Task 3: Vi Hoa
+
+Date started: 05/07/2024
+Date completed: 08/07/2024
+
+* Userstory 7:  
+Developer name: - Task 1: Vi Hoa
+                - Task 2: Vi Hoa
+                - Task 3: Linh Hoa
+                - Task 4: Linh Hoa
+
+Date started: 09/07/2024
+Date completed: 13/07/2024
+
+* Userstory 8: 
+Developer name: - Task 1: Vi Hoa
+                - Task 2: Linh Hoa
+                - Task 3: Vi Hoa
+                - Task 4: Vi Hoa
+
+Date started:   14/07/2024
+Date completed: 17/07/2024
+
+### Burn Down for iteration-2:
+
+![alt text](image-2.png)
