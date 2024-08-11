@@ -2,7 +2,7 @@
 Implement Edit User Profile Functionality
 
 
-## Priority: 20 ((Iteration 2))
+## Priority: 20 (Iteration 2)
 Priority: High
 
 ## Estimation: 5 days
@@ -30,3 +30,4 @@ Develop the frontend user interface for the profile editing page, including fiel
 
 # Completed:
 
+![alt text](image-21.png)

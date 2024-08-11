@@ -28,7 +28,8 @@ Allow user to add products to their favorites list so that they can easily find 
 
 # UI Design:
 
-
+![alt text](image-22.png)
 
 # Completed:
 
+![alt text](image-19.png)

@@ -31,3 +31,4 @@ Allow users to filter products by various criteria so that they can easily find 
 
 # Completed:
 
+![alt text](image-18.png)
